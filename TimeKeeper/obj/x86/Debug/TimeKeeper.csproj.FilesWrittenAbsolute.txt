@@ -1,0 +1,6 @@
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/obj/x86/Debug/TimeKeeper.gtk-gui.gui.stetic
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/bin/Debug/TimeKeeper.exe.mdb
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/bin/Debug/TimeKeeper.exe
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/obj/x86/Debug/TimeKeeper.exe
+/home/bodhi64/Share/TimeKeeper/TimeKeeper/obj/x86/Debug/TimeKeeper.exe.mdb
